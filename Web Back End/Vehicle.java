@@ -1,7 +1,6 @@
 /**
  * The Class Vehicle.
  *
- * @author Tasbeel Arif
  */
 /**
 		* Getter and setter methods for vehicle database
